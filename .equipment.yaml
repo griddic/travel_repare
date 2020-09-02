@@ -61,7 +61,7 @@ torx:
     status: pass
     location: красный рюкзачек
 тросик тормоза:
-    staus: pass
+    status: pass
     location: красный рюкзачек
 задний тормоз полностью готовый:
     status: fail
