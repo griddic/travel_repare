@@ -1,0 +1,68 @@
+шестигранники:
+    status: pass
+    comment: беру свой набор
+    location: красный рюкзачек
+torx:
+    status: pass
+    comment: половина набора из 4х малеьких ключей.
+    location: красный рюкзачек
+отвертка крестовая:
+    status: fail
+    comment: нужна мелеькая
+отвертка плоская:
+    status: fail
+    commetn: нужна малеьнкая
+насос:
+    status: warning
+    comment: Кажется, мой стравливает при разъединении.
+ремкомплект для камеры:
+    status: warinig
+    comment: есть 2 набора, ни одним из них мы ни разу не пользовались.
+сумка для ремкомплекта:
+    status: fail
+    comment: нет
+спицевой ключ:
+    status: warinig
+    comment: Надо найти охватывающй ключ.
+выжимка цепи:
+    status: pass
+    location: красный рюкзачек
+замок цепи на 11:
+    status: pass
+    location: красный рюкзачек
+замок цепи на 10:
+    status: warinig
+    comment: надо найти
+замок цепи на 9:
+    status: warinig
+    comment: есть у Светы в ремнаборе
+замок цепи на 8:
+    status: fail
+    comment: нет
+запасные камеры:
+    status: pass
+    location: в личках
+монтажки:
+    status: pass
+    location: У Светы в ремкомплекте для камеры.
+тормозные колодки:
+    status: pass
+    location: в личках
+запасная покрышка 26:
+    status: warinig
+    comment: нет
+запасная покрышка 27:
+    status: warning
+    comment: Андрюха говорит, что возьмет
+запасная покрышка 29:
+    status: warning
+    comment: ещё едёт с чайника.
+тросик переключателя:
+    status: pass
+    location: красный рюкзачек
+тросик тормоза:
+    staus: pass
+    location: красный рюкзачек
+задний тормоз полностью готовый:
+    status: fail
+    comment: Есть два передних тормоза. Есть задний, но у него течет ручка.
